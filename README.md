@@ -48,8 +48,11 @@ Además, esta hibridación no solo afecta a cómo vemos el espacio, sino que apa
 Esta **estética híbrida** permite que el usuario se convierta en un creador dentro de su propio entorno, ya que ya no solo son consumidores pasivos de un catálogo, sino que pueden manipular estructuras de datos para previsualizar el futuro de su hogar. Donde la capacidad de inyectar objetos tridimensionales con propiedades físicas como la luz y sombra en una fotografía plana es lo que define el **"Nivel 3" de Manovich**, donde los algoritmos de **Inteligencia Artificial** reconstruyen la escena para que la coexistencia entre lo real y lo sintético sea perfecta. Esta técnica demuestra que lo que remezclamos hoy no es solo el contenido, sino fundamentalmente los **métodos de trabajo** de medios que antes estaban aislados.
 
 ## Conclusiones
-La hibridación redefine nuestra relación con el entorno. Como concluyo en mi ensayo, el éxito de estos casos reside en la capacidad de inyectar la realidad física en flujos de datos algorítmicos, logrando que el dispositivo se vuelva "invisible".
+En este análisis he podido demostrar que la **hibridación** no es una simple suma de medios, sino que es una evolución que redefine nuestra relación con el entorno. Qué a través de **Wii Sports** e **IKEA Kreativ**, me ha hecho reflexionar sobre cómo el software ha pasado de ser una herramienta invisible para convertirse en el **motor que fusiona la realidad física con el mundo digital**. Lo que en mi infancia era un juego donde el cuerpo actuaba como interfaz, hoy se ha consolidado en aplicaciones que permiten reconfigurar mi hogar mediante la **visión artificial**.
 
+Como afirma Manovich, el **metamedio ordenador** ha roto esa rigidez de los formatos antiguos para crear una **naturaleza programable**. En los dos casos, el éxito reside en el **remix profundo**, la capacidad de inyectar movimientos y el espacio real en flujos de datos algorítmicos. Esta integración permite que el dispositivo se vuelva **invisible**, logrando que, en lugar de mirar a una pantalla, podamos **"habitar" en el código**.
+
+En resumen, este recorrido desde mis estudios de Bachillerato hasta la teoría de los nuevos medios confirma que la **estética híbrida** es el lenguaje de nuestra era. Ya no somos consumidores pasivos, el software nos ha dado una **interfaz operativa** para interactuar con el mundo de formas que antes eran físicamente imposibles.
 ## Bibliografía y Referencias
 * **Adell, F.** (2024). *Remediación, multimedia e hibridación*. Editorial UOC.
 * **C
