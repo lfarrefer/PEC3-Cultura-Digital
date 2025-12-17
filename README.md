@@ -7,7 +7,7 @@
 
 ---
 
-## **Introducción**
+## Introducción
 A lo largo de esta asignatura he viajado desde el origen de la **cultura digital**, hasta ver cómo el software ha absorbido las tecnologías físicas mediante la **remediación**. Y ahora estoy en un escenario un poco más complejo, la **era de la hibridación**. Que según **Lev Manovich (2013)**, ya no solo es cuando tenemos un ordenador que simule medios antiguos, sino que se ha convertido en un **metamedio universal** capaz de fusionar técnicas que antes eran totalmente independientes.
 
 La **hibridación de medios** representa un salto cualitativo respecto a el **multimedia tradicional**. Mientras que la multimedia es un simple solapamiento de capas (texto, audio y vídeo que conviven sin mezclarse), la hibridación genera nuevas **"gestalts de medios"**. Como bien dice Manovich, en este proceso las interfaces y las propiedades básicas de distintos formatos se unen para ofrecer una experiencia coherente y nueva, algo que era físicamente imposible antes de la **softwarización de la cultura**. Es decir, ya no solo se trata de una suma de partes, sino que se trata de una **mutación** donde las técnicas de un medio se inyectan en otro. 
