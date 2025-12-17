@@ -53,6 +53,19 @@ En este análisis he podido demostrar que la **hibridación** no es una simple s
 Como afirma Manovich, el **metamedio ordenador** ha roto esa rigidez de los formatos antiguos para crear una **naturaleza programable**. En los dos casos, el éxito reside en el **remix profundo**, la capacidad de inyectar movimientos y el espacio real en flujos de datos algorítmicos. Esta integración permite que el dispositivo se vuelva **invisible**, logrando que, en lugar de mirar a una pantalla, podamos **"habitar" en el código**.
 
 En resumen, este recorrido desde mis estudios de Bachillerato hasta la teoría de los nuevos medios confirma que la **estética híbrida** es el lenguaje de nuestra era. Ya no somos consumidores pasivos, el software nos ha dado una **interfaz operativa** para interactuar con el mundo de formas que antes eran físicamente imposibles.
-## Bibliografía y Referencias
-* **Adell, F.** (2024). *Remediación, multimedia e hibridación*. Editorial UOC.
-* **C
+
+## 5- Bibliografía y Referencias
+### Fuentes Teóricas
+* **Adell, F.** (2024). *Remediación, multimedia e hibridación*. [Recurso de aprendizaje]. Barcelona: Editorial UOC.
+* **Manovich, L.** (2001). *El lenguaje de los medios de comunicación: la interfaz, el archivo y la base de datos*. [cite_start]Barcelona: Editorial Paidós.
+* **Manovich, L.** (2013). *El software toma el mando*. Barcelona: Editorial UOC.
+
+### Recursos Multimedia y Casos de Estudio
+* **Cobb, E.** (2019, 22 de septiembre). *The very simple secret to Wii Sports’ success*. Medium. [cite_start][https://elijahcobb.medium.com/the-very-simple-secret-to-wii-sports-success-3a7eb7fd9369](https://elijahcobb.medium.com/the-very-simple-secret-to-wii-sports-success-3a7eb7fd9369).
+* **WatchmeplayNintendo.** (2016, 20 de julio). *Wii Sports - Tennis* [Imagen de miniatura de vídeo]. YouTube. [cite_start][https://www.youtube.com/watch?v=bMnN3m_5X-A](https://www.youtube.com/watch?v=bMnN3m_5X-A).
+* **Xataka.** (2023, 6 de mayo). *IKEA y la increíble función de su app que no conocías #shorts* [Vídeo]. YouTube. [cite_start][https://youtu.be/5cS9FEx0Brc](https://youtu.be/5cS9FEx0Brc).
+
+---
+
+## 6- Declaración de uso de IA
+En este ensayo se ha utilizado la herramienta **Gemini (Google)** solamente para la revisión sintáctica, la búsqueda de sinónimos técnicos, la generación de referencias en formato APA y la estructuración del índice y contenido en formato Markdown
