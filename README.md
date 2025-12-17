@@ -57,7 +57,7 @@ En resumen, este recorrido desde mis estudios de Bachillerato hasta la teoría d
 ## Bibliografía y Referencias
 ### Fuentes Teóricas
 * **Adell, F.** (2024). *Remediación, multimedia e hibridación*. [Recurso de aprendizaje]. Barcelona: Editorial UOC.
-* **Manovich, L.** (2001). *El lenguaje de los medios de comunicación: la interfaz, el archivo y la base de datos*. [cite_start]Barcelona: Editorial Paidós.
+* **Manovich, L.** (2001). *El lenguaje de los medios de comunicación: la interfaz, el archivo y la base de datos*. Barcelona: Editorial Paidós.
 * **Manovich, L.** (2013). *El software toma el mando*. Barcelona: Editorial UOC.
 
 ### Recursos Multimedia y Casos de Estudio
