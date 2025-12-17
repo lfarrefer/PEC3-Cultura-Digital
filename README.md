@@ -56,14 +56,14 @@ En resumen, este recorrido desde mis estudios de Bachillerato hasta la teoría d
 
 ## Bibliografía y Referencias
 ### Fuentes Teóricas
-* **Adell, F.** (2024). *Remediación, multimedia e hibridación*. [Recurso de aprendizaje]. Barcelona: Editorial UOC.
+* **Adell, F.** (2024). *Remediación, multimedia e hibridación*. Barcelona: Editorial UOC.
 * **Manovich, L.** (2001). *El lenguaje de los medios de comunicación: la interfaz, el archivo y la base de datos*. Barcelona: Editorial Paidós.
 * **Manovich, L.** (2013). *El software toma el mando*. Barcelona: Editorial UOC.
 
 ### Recursos Multimedia y Casos de Estudio
-* **Cobb, E.** (2019, 22 de septiembre). *The very simple secret to Wii Sports’ success*. Medium. [cite_start][https://elijahcobb.medium.com/the-very-simple-secret-to-wii-sports-success-3a7eb7fd9369](https://elijahcobb.medium.com/the-very-simple-secret-to-wii-sports-success-3a7eb7fd9369).
-* **WatchmeplayNintendo.** (2016, 20 de julio). *Wii Sports - Tennis* [Imagen de miniatura de vídeo]. YouTube. [cite_start][https://www.youtube.com/watch?v=bMnN3m_5X-A](https://www.youtube.com/watch?v=bMnN3m_5X-A).
-* **Xataka.** (2023, 6 de mayo). *IKEA y la increíble función de su app que no conocías #shorts* [Vídeo]. YouTube. [cite_start][https://youtu.be/5cS9FEx0Brc](https://youtu.be/5cS9FEx0Brc).
+* **Cobb, E.** (2019, 22 de septiembre). *The very simple secret to Wii Sports’ success*. Medium. [https://elijahcobb.medium.com/the-very-simple-secret-to-wii-sports-success-3a7eb7fd9369](https://elijahcobb.medium.com/the-very-simple-secret-to-wii-sports-success-3a7eb7fd9369).
+* **WatchmeplayNintendo.** (2016, 20 de julio). *Wii Sports - Tennis* [Imagen de miniatura de vídeo]. YouTube. [https://www.youtube.com/watch?v=bMnN3m_5X-A](https://www.youtube.com/watch?v=bMnN3m_5X-A).
+* **Xataka.** (2023, 6 de mayo). *IKEA y la increíble función de su app que no conocías #shorts* [Vídeo]. YouTube. [https://youtu.be/5cS9FEx0Brc](https://youtu.be/5cS9FEx0Brc).
 
 ---
 
