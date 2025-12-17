@@ -54,7 +54,7 @@ Como afirma Manovich, el **metamedio ordenador** ha roto esa rigidez de los form
 
 En resumen, este recorrido desde mis estudios de Bachillerato hasta la teoría de los nuevos medios confirma que la **estética híbrida** es el lenguaje de nuestra era. Ya no somos consumidores pasivos, el software nos ha dado una **interfaz operativa** para interactuar con el mundo de formas que antes eran físicamente imposibles.
 
-## 5- Bibliografía y Referencias
+## Bibliografía y Referencias
 ### Fuentes Teóricas
 * **Adell, F.** (2024). *Remediación, multimedia e hibridación*. [Recurso de aprendizaje]. Barcelona: Editorial UOC.
 * **Manovich, L.** (2001). *El lenguaje de los medios de comunicación: la interfaz, el archivo y la base de datos*. [cite_start]Barcelona: Editorial Paidós.
@@ -67,5 +67,5 @@ En resumen, este recorrido desde mis estudios de Bachillerato hasta la teoría d
 
 ---
 
-## 6- Declaración de uso de IA
+## Declaración de uso de IA
 En este ensayo se ha utilizado la herramienta **Gemini (Google)** solamente para la revisión sintáctica, la búsqueda de sinónimos técnicos, la generación de referencias en formato APA y la estructuración del índice y contenido en formato Markdown
