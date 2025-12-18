@@ -68,4 +68,16 @@ En resumen, este recorrido desde mis estudios de Bachillerato hasta la teoría d
 ---
 
 ## Declaración de uso de IA
-En este ensayo se ha utilizado la herramienta **Gemini (Google)** solamente para la revisión sintáctica, la búsqueda de sinónimos técnicos, la generación de referencias en formato APA y la estructuración del índice y contenido en formato Markdown
+En este ensayo se ha utilizado la herramienta **Gemini (Google)** solamente para la revisión sintáctica, la búsqueda de sinónimos técnicos, la generación de referencias en formato APA y la estructuración del índice y contenido en formato Markdown y la **redacción de la licencia de uso del repositorio**.
+
+## Licencia de Uso
+Este trabajo está sujeto a una licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+
+Usted es libre de:
+* **Compartir**: copiar y redistribuir el material en cualquier medio o formato.
+* **Adaptar**: remezclar, transformar y construir a partir del material.
+
+**Bajo los siguientes términos:**
+* **Atribución (BY)**: Debe dar crédito de manera adecuada, brindar un enlace a la licencia e indicar si se han realizado cambios.
+* **NoComercial (NC)**: No puede hacer uso del material con fines comerciales.
+* **CompartirIgual (SA)**: Si remezcla, transforma o crea a partir del material, debe distribuir sus contribuciones bajo la misma licencia que el original.
