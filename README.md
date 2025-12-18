@@ -1,4 +1,4 @@
-# Habitar el Código: Entre el swing de la Wii y el salón híbrido de IKEA
+# Habitar el Código: Entre el *swing* de la Wii y el salón híbrido de IKEA
 
 **PEC3:** Visionando el futuro con las gafas de Manovich <br>
 **Alumno:** Lidan Farré Ferrando <br>
