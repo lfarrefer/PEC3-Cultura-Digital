@@ -1,6 +1,6 @@
 # Habitar el Código: Entre el swing de la Wii y el salón híbrido de IKEA
 
-**PEC3:** Visionando el futuro con las gafas de Manovich <br>
+**PEC3:** Visionando el futuro con las gafas de Manovich; Redescubriendo la hibridación <br>
 **Alumno:** Lidan Farré Ferrando <br>
 **Curso:** Grado de Multimedia 2025/26 <br>
 **Profesor:** Francisco Miguel Gea Megías <br>
